@@ -33,4 +33,5 @@ Below is a flowchart which consists of a rough idea of how the interview feature
     - **Hints & Resources**: A section with hints, tutorials, or links to relevant documentation.
     - **Feedback Section**: Automatic feedback on the user's answer, including explanations and code examples.
     - **User Input Area**: An area where users can see and submit their answers for feedback.
+      
 In conclusion, by implementing these interview preparation strategies and resources, StackUp can significantly enhance the readiness of aspiring techies for their career journeys. This initiative not only equips participants with valuable skills and knowledge but also fosters a supportive community where experiences and insights are shared, ultimately boosting the confidence and success rates of tech job seekers in their pursuit of promising opportunities.
