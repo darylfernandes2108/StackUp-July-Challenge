@@ -1,4 +1,3 @@
-# StackUp-July-Challenge
 
 # Mastering the Tech Interview: StackUp's Blueprint for Aspiring Techies' Success
 
