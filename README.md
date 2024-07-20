@@ -1,10 +1,10 @@
 # Mastering the Tech Interview: StackUp's Blueprint for Aspiring Techies' Success
 
-• <b>Given the increasing reliance on digital platforms and online portfolios, why do interviews remain a crucial component of the hiring process in today's job market?</b>
+### • <b>Given the increasing reliance on digital platforms and online portfolios, why do interviews remain a crucial component of the hiring process in today's job market?</b>
 
 ->	Interviews are pivotal for tech professionals, serving as a platform to showcase their abilities beyond their resumes. These interactions not only assess technical proficiency but also communication and problem-solving skills, essential for career growth. Successful interviews can unlock job opportunities, internships, and networking connections, ultimately shaping one's professional journey.
 
-•	The Idea:
+### •	<b>The Idea:</b>
 
 ->	Initially, we can start with a textual interview format, where people can ask questions they have doubts about, such as how to answer interview questions to stand out, and what are the frequently asked questions in interviews. Responses to these questions can be provided by either the StackUp team or experienced Stackies who have gone through multiple interviews in the past. Later, if feasible, the StackUp team can host live interviews instead of quests/campaigns. This can be done only if the StackUp team members have time available; if not, we can stick to the Q&A type of interview format where we seek help to perform better and prepare well for upcoming interviews.
 Below is a flowchart which consists of a rough idea of how the interview feature can be added: 
