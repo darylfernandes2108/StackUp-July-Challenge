@@ -1,6 +1,6 @@
 # StackUp-July-Challenge
 
-Mastering the Tech Interview: StackUp's Blueprint for Aspiring Techies' Success
+# Mastering the Tech Interview: StackUp's Blueprint for Aspiring Techies' Success
 
 •	Given the increasing reliance on digital platforms and online portfolios, why do interviews remain a crucial component of the hiring process in today's job market?
 
